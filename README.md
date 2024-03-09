@@ -8,7 +8,7 @@
 
 ## Installation
 - To access my employee payroll tracker website follow link: https://ricanlonghorn23.github.io/Employee-Payroll-Tracker/
-- To Access my Employee Payroll Tracker: https://github.com/ricanlonghorn23/Employee-Payroll-Tracker.git
+- To Access my Employee Payroll Tracker repository: https://github.com/ricanlonghorn23/Employee-Payroll-Tracker.git
 
 
 

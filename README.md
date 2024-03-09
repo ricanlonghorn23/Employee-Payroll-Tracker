@@ -7,7 +7,10 @@
 
 
 ## Installation
-Pending 
+- To access my employee payroll tracker website follow link: https://ricanlonghorn23.github.io/Employee-Payroll-Tracker/
+- To Access my Employee Payroll Tracker: https://github.com/ricanlonghorn23/Employee-Payroll-Tracker.git
+
+
 
 ## Usage
 The usage of this application for any employer who is wanting to get a list of employees and also track the average salary and how many employees they have. Additionally, if the employer would like to choose a random employee for a prize, the console has that function as well. It will randomly choose an employee and display the winner in the console. 
